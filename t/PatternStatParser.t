@@ -49,3 +49,5 @@ subtest "parse" => sub {
 	"Divide the line and aggregate tokens 1. time"
 	);
 };
+
+done_testing();
