@@ -1,3 +1,6 @@
+# PODNAME: Textoola::PatternStatComparator
+# ABSTRACT: Class to compare 2 counting-hashes with pattern-tokenlines and return the rate of change.
+
 use strict;
 use warnings;
 use v5.14;

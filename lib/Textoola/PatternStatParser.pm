@@ -1,3 +1,6 @@
+# PODNAME: Textoola::PatternStatParser
+# ABSTRACT: Class to parse text into pattern-tokenline and creating at counting-hash of pattern-tokenline.
+
 use strict;
 use warnings;
 use v5.14;
