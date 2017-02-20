@@ -46,6 +46,10 @@ Show only tokenlines that have changed beyound the threshhold.
 A positive og negative percent change value for each tokenline is show.
 In the case of a change from nothing then "*%" is shown.
 
+=head1 Project
+
+L<Textoola on github.com|https://github.com/sascha-dibbern/Textoola/>
+
 =head1 Authors 
 
 L<Sascha Dibbern|http://sascha.dibbern.info/> (sascha@dibbern.info) 
